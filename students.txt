@@ -1,0 +1,45 @@
+Student Name: 
+[Anthony Pumar]
+
+Student Expected Grade: 
+[100]
+
+
+Each item marked with “-“ is worth 4 points.
+
+Check List:
+- enter your expected grade above
+Start with 100pts and then subtract 4 pts for each item listed below you did not complete accurately; this self assessment is also is worth 4 pts
+
+Section #2
+- email required
+- email correct format
+- both error message occupy same spot on web page
+
+Section #3
+- subject is required
+- body is required
+- body cannot be more than 500 characters
+
+Section #4
+- required email address
+- required firstname
+- required agency name
+- required street address
+- required state
+- required city
+- required zip
+- email should be correct format
+- fax number, if supplied,  should be formatted with dashes 305-555-6666
+- toll free number, if supplied, should also be formatted like fax, but can only start with 800 or 877
+- state should be 2 letters
+
+offer section:
+- price is required
+- price must be no less than 100 and no more than 999
+- must be formatted as single number
+- alaksa, if selected, must have 7 days or more for duration, anything less should show a message indicating this
+
+last section:
+- checkbox is required to agree on terms
+- if all above passes, redirect passed.aspx

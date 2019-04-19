@@ -1,0 +1,73 @@
+﻿.commentText
+{
+	font-family: Arial; 
+	font-size:8pt; 
+	font-weight: bold; 
+	color: #888888;
+	font-style: italic;
+}
+
+.labelText
+{
+	font-family: Arial; 
+	font-size:8pt; 
+	font-weight: bold; 
+	color: #888888;
+}
+
+.step2BoxPadding
+{
+	padding-left: 30px;
+	padding-right: 20px;	
+}
+
+.Table_01 div
+{
+	background-color: #F1FAFF;	
+}
+
+.textBoxFont
+{
+	font-family: Arial; 
+	font-size:10pt; 
+	font-weight: bold; 
+	color: #888888;	
+}
+
+.textCheckboxAgreement
+{
+	font-size: x-small;
+	font-family: Verdana;
+	color: Blue;
+	font-weight: bold;	
+	color: #00518C;
+}
+
+.validationText
+{
+	font-family: Verdana; 
+	font-size: smaller; 
+	font-style: italic;
+}
+
+.separator
+{
+	border-top: solid 3px #aaaaaa;
+	height: 3px;
+	width: 100%;
+}
+
+.separator2px
+{
+	border-top: solid 3px #aaaaaa;
+	height: 2px;
+	width: 100%;
+}
+
+.errorMessage
+{
+	color: Red;
+	
+}
+/* carnival specific for their footer */
+
